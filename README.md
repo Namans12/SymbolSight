@@ -1,4 +1,5 @@
-# CNN Image Classification Model
+# SymbolSight
+## CNN Image Classification Model
 
 This project implements a Convolutional Neural Network (CNN) for image classification. The model is designed to classify images of mathematical symbols, whether they are sourced from a local directory, from the web, or hand-drawn in a paint application.
 
